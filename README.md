@@ -1,22 +1,8 @@
-### Hi there 👋
-
-<!--
-**Rucha95/Rucha95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-•	😊 Hi, I’m Rucha!
-•	🔭 I’m interested in Internet Of Things
-•	👩🏻‍💻 I’m currently working on Full Stack Development
-•	💞️ I’m looking to collaborate on building high performance, UX-focused, secure System Solutions
-•	🌱 I’m currently learning Distributed Systems
-•	📫 Here’s How to reach me: rucha.chauthai95@gmail.com
+### •	😊 Hi, I’m Rucha!
+### •	🔭 I’m interested in Internet Of Things
+### •	👩🏻‍💻 I’m currently working on Full Stack Development
+### •	💞️ I’m looking to collaborate on building high performance, UX-focused, secure System Solutions
+### •	🌱 I’m currently learning Distributed Systems
+### •	📫 Here’s How to reach me: rucha.chauthai95@gmail.com
 
 
