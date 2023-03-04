@@ -3,8 +3,6 @@
 <!--
 **Rucha95/Rucha95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+•	😊 Hi, I’m Rucha!
+•	🔭 I’m interested in Internet Of Things
+•	👩🏻‍💻 I’m currently working on Full Stack Development
+•	💞️ I’m looking to collaborate on building high performance, UX-focused, secure System Solutions
+•	🌱 I’m currently learning Distributed Systems
+•	📫 Here’s How to reach me: rucha.chauthai95@gmail.com
+
+
