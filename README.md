@@ -3,6 +3,6 @@
 -  	👩🏻‍💻 Working on Full Stack Development
 -  	💞️ Looking to collaborate on building high performance,UX-focused,secure software system solutions
 -  	🌱 Learning Distributed systems
--  	📫 Here’s How to reach me: chauthai.r@northeastern.edu
+-  	📫 Here’s how to reach me: rucha.chauthai08@gmail.com
 
 
